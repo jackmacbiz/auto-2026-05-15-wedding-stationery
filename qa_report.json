@@ -1,27 +1,27 @@
 {
-  "verified": false,
+  "verified": true,
   "checks": {
     "mobile": {
-      "title": "Site not found \u00b7 GitHub Pages",
-      "h_overflow_px": 310,
-      "image_count": 0,
+      "title": "Elegant Wedding Invitation Template \u2014 Botanical Editable \u2014 Print or Send",
+      "h_overflow_px": 0,
+      "image_count": 3,
       "broken_images": 0,
       "viewport": {
         "width": 390,
         "height": 844
       },
-      "ok": false
+      "ok": true
     },
     "desktop": {
-      "title": "Site not found \u00b7 GitHub Pages",
+      "title": "Elegant Wedding Invitation Template \u2014 Botanical Editable \u2014 Print or Send",
       "h_overflow_px": 0,
-      "image_count": 0,
+      "image_count": 3,
       "broken_images": 0,
       "viewport": {
         "width": 1280,
         "height": 900
       },
-      "ok": false
+      "ok": true
     }
   },
   "screenshots": [
