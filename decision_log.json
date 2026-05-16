@@ -1,0 +1,127 @@
+{
+  "niche": {
+    "cluster": "wedding_stationery",
+    "raw_score": 198.0,
+    "mentions": 0,
+    "single_word_hits": 2,
+    "season_boost": 1.6,
+    "world_state_boost": 90,
+    "competition_hits": 0,
+    "deliverability": 0.95,
+    "final_score": 301.0,
+    "evidence": [
+      {
+        "sub": "Etsy",
+        "title": "Wrong kilt - second time it\u2019s still not right.",
+        "score": 31,
+        "url": "https://reddit.com/r/Etsy/comments/1tca3yw/",
+        "matched_kw": "~wedding"
+      },
+      {
+        "sub": "EtsySellers",
+        "title": "30 sales in my first month on Etsy!!! \ud83d\ude01",
+        "score": 179,
+        "url": "https://reddit.com/r/EtsySellers/comments/1t9l3nd/",
+        "matched_kw": "~wedding"
+      },
+      {
+        "sub": "world_state",
+        "title": "trending: wedding",
+        "score": 8,
+        "matched_kw": "wedding invitation",
+        "url": "internal://world_state/consensus"
+      },
+      {
+        "sub": "world_state",
+        "title": "trending: wedding",
+        "score": 8,
+        "matched_kw": "wedding invite",
+        "url": "internal://world_state/consensus"
+      },
+      {
+        "sub": "world_state",
+        "title": "trending: wedding",
+        "score": 8,
+        "matched_kw": "wedding template",
+        "url": "internal://world_state/consensus"
+      },
+      {
+        "sub": "world_state",
+        "title": "trending: print",
+        "score": 12,
+        "matched_kw": "wedding printable",
+        "url": "internal://world_state/consensus"
+      }
+    ]
+  },
+  "all_ranked": [
+    {
+      "cluster": "wedding_stationery",
+      "raw_score": 198.0,
+      "mentions": 0,
+      "single_word_hits": 2,
+      "season_boost": 1.6,
+      "world_state_boost": 90,
+      "competition_hits": 0,
+      "deliverability": 0.95,
+      "final_score": 301.0,
+      "evidence": [
+        {
+          "sub": "Etsy",
+          "title": "Wrong kilt - second time it\u2019s still not right.",
+          "score": 31,
+          "url": "https://reddit.com/r/Etsy/comments/1tca3yw/",
+          "matched_kw": "~wedding"
+        },
+        {
+          "sub": "EtsySellers",
+          "title": "30 sales in my first month on Etsy!!! \ud83d\ude01",
+          "score": 179,
+          "url": "https://reddit.com/r/EtsySellers/comments/1t9l3nd/",
+          "matched_kw": "~wedding"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: wedding",
+          "score": 8,
+          "matched_kw": "wedding invitation",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: wedding",
+          "score": 8,
+          "matched_kw": "wedding invite",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: wedding",
+          "score": 8,
+          "matched_kw": "wedding template",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: print",
+          "score": 12,
+          "matched_kw": "wedding printable",
+          "url": "internal://world_state/consensus"
+        }
+      ]
+    }
+  ],
+  "platform_decision": {
+    "platform": "gh_pages",
+    "reason": "top-ranked platform for wedding_stationery that has live creds",
+    "ready": true,
+    "blocker": null,
+    "ladder": [
+      "etsy",
+      "minted",
+      "domain",
+      "gh_pages"
+    ]
+  },
+  "platform_blocker_ticket": null
+}
